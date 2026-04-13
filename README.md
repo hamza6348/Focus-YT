@@ -23,7 +23,7 @@ Toggle any of these on or off from the popup:
 
 ### From the Chrome Web Store
 
-*(Coming soon)*
+[Install Focus YT](https://chromewebstore.google.com/detail/moeeaopgdooaggkkaapbcoenlhcnhihj) from the Chrome Web Store.
 
 ### Manual / Developer Mode
 
