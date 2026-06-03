@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Focus YT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Remove distractions from YouTube. Hide recommendations, comments, shorts, and more.",
   "permissions": ["storage"],
   "host_permissions": ["*://*.youtube.com/*"],
